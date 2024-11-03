@@ -1,0 +1,26 @@
+{
+  "name": "@footgun/events",
+  "version": "0.1.0",
+  "description": "a data oriented poll-based event scheduler",
+  "main": "events.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mreinstein/footgun-events.git"
+  },
+  "keywords": [
+    "dod",
+    "event",
+    "scheduler",
+    "polling"
+  ],
+  "author": "Michael Reinstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mreinstein/footgun-events/issues"
+  },
+  "homepage": "https://github.com/mreinstein/footgun-events#readme"
+}
